@@ -10,8 +10,8 @@ Created on Sun Jul 16 01:57:47 2023
 import numpy as np
 import streamlit as st
 import pickle
-import sklearn
 from PIL import Image
+import sklearn
 
 import warnings
 warnings.filterwarnings('ignore')
