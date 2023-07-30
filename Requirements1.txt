@@ -2,7 +2,7 @@ NumPy
 Streamlit
 pickle
 PIL
-
 matplotlib
 pandas
-sklearnwarnings
+sklearn
+warnings
