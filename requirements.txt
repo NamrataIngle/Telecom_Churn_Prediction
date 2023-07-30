@@ -5,5 +5,4 @@ PIL
 matplotlib
 pandas
 scikit-learn
-sklearn
 warnings
