@@ -4,6 +4,6 @@ pickle
 PIL
 matplotlib
 pandas
-scikit learn
+scikit-learn
 sklearn
 warnings
