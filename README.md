@@ -27,12 +27,12 @@ Unix/MacOS: python -m venv venv && source venv/bin/activate
 **Install dependencies:**
 pip install -r requirements.txt
 
-Contributing
+**Contributing**
 Open to contributions: bug reports, feature suggestions, enhancements, or pull requests.
 
-License
-MIT License
-Author
-Namrata Ingle - Profile
-Acknowledgments
+**Author**
+Namrata Ingle - [Profile](https://github.com/NamrataIngle)
+
+
+**Acknowledgments**
 Code inspiration and acknowledgments.
