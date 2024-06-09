@@ -8,11 +8,11 @@ Customer demographics, services, and account information.
 Target: Churn (Yes/No).
 
 **Models Used**
-Logistic Regression
-Decision Tree Classifier
-Random Forest Classifier
-Support Vector Machines
-XGBoost
+1. Logistic Regression
+2. Decision Tree Classifier
+3. Random Forest Classifier
+4. Support Vector Machines
+5. XGBoost
 
 **Tools**
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
